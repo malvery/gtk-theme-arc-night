@@ -1,6 +1,6 @@
 #!/bin/bash
 SCRIPT_PATH=$(dirname "$0")
-THEME_NAME=arc-night1
+THEME_NAME=arc-night
 
 cd $SCRIPT_PATH
 git submodule update --init
